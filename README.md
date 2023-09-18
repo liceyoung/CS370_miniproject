@@ -1,6 +1,5 @@
-*** This is a 1st mini project in Computer Security Class ***
-
-
+INTRO: This is a 1st mini project in Computer Security Class
+___________________________________________________________________________________________________
 TASK 1: In this mini project, you are first asked to implement a simple Vigenere Cipher.
 • The algorithm for encryption is: EK(m) = m + K mod 26 
 • The algorithm for decryption is: DK(m) = m - K mod 26
